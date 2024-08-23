@@ -6,7 +6,7 @@ A. C. <b>Doná Dev FSPHP</b>
 </h1>
 <br>
 
-# Projeto Comando git 📱 💻 🖥️ 
+# Projeto Comandos git 📱 💻 🖥️ 
 
 >Este projeto é para criar um local com o resumo dos comandos do git
 
