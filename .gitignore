@@ -82,3 +82,4 @@ composer.phar
 
 # .env file
 .env
+!.env.example
